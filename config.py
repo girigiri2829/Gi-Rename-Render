@@ -11,9 +11,9 @@ API_ID = os.environ.get("API_ID", "23049826")
 
 API_HASH = os.environ.get("API_HASH", "4a4216f089ce68a3ce2c8b9b9a6fa79a")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6723459815:AAGZT3o31T4CYw2FSTmADZgiGGX3pBvl9gE") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6443893219:AAERHhKv09MfBuQsA-6z9Z5hZVfAsn_eMRw") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "gi_makebot") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "") 
 
              # Don't Remove Credit @VJ_Botz
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
