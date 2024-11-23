@@ -3,10 +3,9 @@
 # Ask Doubt on telegram @KingVJ01
 
 
-import re, os
+from os import getenv
 
-id_pattern = re.compile(r'^.\d+$') 
-ll
+class Config(object):
 API_ID = os.environ.get("API_ID", "23049826")
 
 API_HASH = os.environ.get("API_HASH", "4a4216f089ce68a3ce2c8b9b9a6fa79a")
